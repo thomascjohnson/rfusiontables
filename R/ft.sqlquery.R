@@ -1,4 +1,4 @@
-ft.showtables <- function(auth, sqlquery) {
+ft.sqlquery <- function(auth, sqlquery) {
   url <- "https://www.googleapis.com/fusiontables/v2/query"
   params <- list(sql = sqlquery)
   
