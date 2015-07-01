@@ -11,3 +11,4 @@ License: Apache
 LazyData: true
 Imports:
     httr
+    rjson
